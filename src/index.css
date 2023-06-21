@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Maven-pro-variable";
+  src: local("Maven-pro"),
+    url("./assets/fonts/maven_pro/MavenPro-VariableFont_wght.ttf")
+      format("truetype");
+}
+
+* {
+  font-family: "Maven-pro-variable";
+  font-weight: bold;
+}
+body {
+  background: linear-gradient(to bottom, #0285B7, #043A4E);
+}
+
+.font-size-small {
+  font-size: smaller;
+  font-weight: lighter;
+}
+
+.pt-100px {
+  padding-top: 100px;
+}
