@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ghpagestest/static/css/main.5b52f872.css",
+    "main.js": "/ghpagestest/static/js/main.0889695f.js",
+    "static/media/background_awards.png": "/ghpagestest/static/media/background_awards.f547185905fbdf8104eb.png",
+    "static/media/background_requests.png": "/ghpagestest/static/media/background_requests.75aecdc0c96052960e0f.png",
+    "static/media/MavenPro-VariableFont_wght.ttf": "/ghpagestest/static/media/MavenPro-VariableFont_wght.d9470edf55ae770f491c.ttf",
+    "static/media/Bee_Logo_v2.png": "/ghpagestest/static/media/Bee_Logo_v2.6da0c936187e75ab175e.png",
+    "static/media/default_participant_coral.png": "/ghpagestest/static/media/default_participant_coral.6c77395a5c9bb333df1b.png",
+    "static/media/Bee_Watching_lettering.png": "/ghpagestest/static/media/Bee_Watching_lettering.5943f5f781d1aeefd803.png",
+    "index.html": "/ghpagestest/index.html",
+    "main.5b52f872.css.map": "/ghpagestest/static/css/main.5b52f872.css.map",
+    "main.0889695f.js.map": "/ghpagestest/static/js/main.0889695f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b52f872.css",
+    "static/js/main.0889695f.js"
+  ]
+}
